@@ -7,8 +7,8 @@
     "bundle": "paperback-cli bundle"
   },
   "devDependencies": {
-    "@paperback/cli": "^0.8.0",
-    "@paperback/types": "^0.8.0",
+    "@paperback/cli": "github:Paperback-iOS/cli#v0.8.0",
+    "@paperback/types": "github:Paperback-iOS/types#v0.8.0",
     "typescript": "^5.0.0"
   }
 }
