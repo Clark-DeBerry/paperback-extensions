@@ -1,0 +1,14 @@
+{
+  "name": "batcave-paperback-extension",
+  "version": "1.0.0",
+  "description": "BatCave extension for Paperback v0.8",
+  "scripts": {
+    "build": "paperback-cli build",
+    "bundle": "paperback-cli bundle"
+  },
+  "devDependencies": {
+    "@paperback/cli": "^0.8.0",
+    "@paperback/types": "^0.8.0",
+    "typescript": "^5.0.0"
+  }
+}
